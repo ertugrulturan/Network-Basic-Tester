@@ -64,12 +64,12 @@ def udpflood():
 
 
 def destinationIP():
-    dstIP = input("Destination IP: ")
+    dstIP = input("IP: ")
     return dstIP
 
 
 def destinationPort():
-    dstPort = input("Destination Port: ")
+    dstPort = input("Port: ")
     return int(dstPort)
 
 
