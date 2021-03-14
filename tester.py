@@ -16,7 +16,7 @@ def main():
     elif user_input == "udp":
         udpflood()
     else:
-        print("[ERROR] Select one of the attack type !!!")
+        print("[ERROR] Select one of the flood type !!!")
         main()
 
 
